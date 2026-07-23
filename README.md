@@ -33,13 +33,13 @@ A collection of Java Low Level Design concepts and Design Pattern implementation
 
 ## Java-SD-Projects/
 
-✅ Parking Lot System
-⬜ Logging Framework
-⬜ Traffic Signal System
-⬜ Vending Machine
-⬜ Task Management System
-⬜ PubSub System
-⬜ ATM Machine
-⬜ Hotel Management System
-⬜ Elevator System
-⬜ Ride Booking App
+- ✅ Parking Lot System
+- ⬜ Logging Framework
+- ⬜ Traffic Signal System
+- ⬜ Vending Machine
+- ⬜ Task Management System
+- ⬜ PubSub System
+- ⬜ ATM Machine
+- ⬜ Hotel Management System
+- ⬜ Elevator System
+- ⬜ Ride Booking App
